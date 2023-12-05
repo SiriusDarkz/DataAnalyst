@@ -1,4 +1,4 @@
-# dataAnalyst
+# DataAnalyst
 
 
 This application uses: Java 21, maven and Junit 5 for testing.  So, for running this app you’ll need to run the latest Java version available today. 
